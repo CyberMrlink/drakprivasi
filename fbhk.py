@@ -2218,4 +2218,4 @@ def gaz(toket, enable=True):
 
 
 if __name__ == '__main__':
-	Mrlinkerrorsystem()
+	Anjas()
