@@ -113,7 +113,7 @@ def anjas():
         else:
             print '\x1b[32;1m[\x1b[31;1m-\x1b[32;1m]\x1b[37;1m Username \x1b[31;1mWrong'
             raw_input('\x1b[32;1m[\x1b[31;1m+\x1b[32;1m]\x1b[37;1m You Must Enter Again  ')
-            Mrlink()
+            anjas()
  
 
 
@@ -2219,4 +2219,4 @@ def gaz(toket, enable=True):
 
 
 if __name__ == '__main__':
-	Mrlink()
+	anjas()
